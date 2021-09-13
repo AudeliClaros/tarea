@@ -1,0 +1,7 @@
+C:\citaNone\citaNone\obj\Debug\citaNone.csproj.AssemblyReference.cache
+C:\citaNone\citaNone\obj\Debug\citaNone.csproj.CoreCompileInputs.cache
+C:\citaNone\citaNone\bin\Debug\citaNone.exe.config
+C:\citaNone\citaNone\bin\Debug\citaNone.exe
+C:\citaNone\citaNone\bin\Debug\citaNone.pdb
+C:\citaNone\citaNone\obj\Debug\citaNone.exe
+C:\citaNone\citaNone\obj\Debug\citaNone.pdb
